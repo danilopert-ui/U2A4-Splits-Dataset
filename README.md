@@ -17,7 +17,7 @@ U2A4-Splits-Dataset/
 +-- splits/ 
 |   +-- train.csv 
 |   +-- test.csv 
-+-- splits_iris.py 
++-- splits_iris.ipynb 
 +-- .gitignore 
 +-- README.md 
 ``` 
