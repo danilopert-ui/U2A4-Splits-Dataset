@@ -26,5 +26,5 @@ U2A4-Splits-Dataset/
 1. Crear entorno virtual: `python -m venv venv` 
 2. Activar: `venv\Scripts\activate` 
 3. Instalar dependencias: `pip install pandas scikit-learn` 
-4. Ejecutar: `python splits_iris.py` 
+4. Ejecutar: `python splits_iris.ipynb` 
 5. Los archivos se generan en la carpeta /splits 
